@@ -19,4 +19,4 @@ Xone es una plataforma completa de administración hotelera con arquitectura Clo
 * **Procesamiento Multimedia:** Conversión nativa de imágenes a Base64.
 
 ---
-*Desarrollado como Proyecto Integrador.*
+*Desarrollado como Proyecto Integrador.*"# Xone-App-de-reservas" 
